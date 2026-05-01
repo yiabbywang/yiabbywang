@@ -12,11 +12,11 @@ I earned my M.Sc. in Earth and Environmental Sciences from the University of Bri
 
 Selected Publications
 ======
-- Wang, Y., Petrone, R., & Kompanizare, M. (2024). *Toward a unified understanding of estimating evapotranspiration: The linkage between three effective parsimonious models*. Water Resources Research, 60, e2023WR036910. https://doi.org/10.1029/2023WR036910
+- **Wang, Y.**, Petrone, R., & Kompanizare, M. (2024). *Toward a unified understanding of estimating evapotranspiration: The linkage between three effective parsimonious models*. _Water Resources Research_. https://doi.org/10.1029/2023WR036910
 
-- Wang, Y., Petrone, R., & Van Huizen, B. (2023). *The dependence of evaporative efficiency of vegetated surfaces on ground cover mass fractions in vegetated soils in mesic ecosystems*. Hydrological Processes. https://doi.org/10.1002/hyp.15036
+- **Wang, Y.**, Petrone, R., & Van Huizen, B. (2023). *The dependence of evaporative efficiency of vegetated surfaces on ground cover mass fractions in vegetated soils in mesic ecosystems*. _Hydrological Processes_. https://doi.org/10.1002/hyp.15036
 
-- Wang, Y., Wei, X., del Campo, A., Winkler, R., Wu, J., Li, Q., & Liu, W. (2019). *Juvenile thinning can effectively mitigate the effects of drought on tree growth and water consumption in a young Pinus contorta stand in the interior of British Columbia, Canada*. Forest Ecology and Management, 454, 117667. https://doi.org/10.1016/j.foreco.2019.117667
+- **Wang, Y.**, Wei, X., del Campo, A., Winkler, R., Wu, J., Li, Q., & Liu, W. (2019). *Juvenile thinning can effectively mitigate the effects of drought on tree growth and water consumption in a young Pinus contorta stand in the interior of British Columbia, Canada*. _Forest Ecology and Management_. https://doi.org/10.1016/j.foreco.2019.117667
 
 [View all publications](/publications/)
 
@@ -26,7 +26,7 @@ Papers Under Review/In Revision (Preprint Available)
 - [{{ post.title }}]({{ post.paperurl }})  
   {{ post.venue }}, {{ post.date | date: "%Y" }}
 {% endfor %}
-
+------
 Academic Activities
 ======
 {% for post in site.talks limit:5 %}
@@ -34,7 +34,7 @@ Academic Activities
 {% endfor %}
 
 [View all academic activities](/talks/)
-
+------
 Blog Posts
 ======
 {% for post in site.posts limit:5 %}
