@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Yi (Abby) Wang"
   pronouns         : "she/her"  
-  bio              : "Postdoctoral researcher studying land-atmosphere interactions and carbon-water coupling."
-  location         : "Waterloo, Ontario, Canada"
+  bio              : #BIO
+  location         : #Location
   employer         : "University of Waterloo"
   uri              : # URL
   email            : "yi.wang1@uwaterloo.ca" 
@@ -221,16 +221,16 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  workingpapers:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  blogs:
     output: true
     permalink: /:collection/:path/
 
