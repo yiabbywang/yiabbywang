@@ -1,13 +1,13 @@
 var addressPoints = [
   [
+    "Adjacent Forest Harvesting Impacts on Peatland Carbon Exchange at a Single-Site Level: A Preliminary Comparison of CaMP and CLASSIC Models<br />Peatland Science Symposium 2026; Quebec City, Canada",
+    46.8137431,
+    -71.2084061
+  ],
+  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
