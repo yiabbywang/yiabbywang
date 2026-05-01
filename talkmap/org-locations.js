@@ -10,13 +10,13 @@ var addressPoints = [
     -75.6901106
   ],
   [
+    "The dependence of evaporative efficiency of vegetated surfaces on ground cover weight fractions in mesic ecosystems<br />Global Water Futures 2023; Canada",
+    61.0666922,
+    -107.991707
+  ],
+  [
     "How well do evapotranspiration partitioning approaches perform in moss-covered wetlands?<br />Canadian Geophysical Union Conference 2025; Saskatoon, Canada",
     52.131802,
     -106.660767
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
   ]
 ];
