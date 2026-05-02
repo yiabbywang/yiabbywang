@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Thinning can mediate the negative hydrological effects of drought: Insight from a young lodgepole pine forest, British Columbia, Canada<br />5th International Conference on Forests and Water 2018; Valdivia, Chile",
+    "Thinning can Mediate the Negative Hydrological Effects of Drought: Insight from a Young Lodgepole Pine Forest, British Columbia, Canada<br />5th International Conference on Forests and Water 2018; Valdivia, Chile",
     -39.8141262,
     -73.2459859
   ],
