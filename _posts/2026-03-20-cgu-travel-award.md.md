@@ -1,5 +1,5 @@
 ---
-title: "A Pleasant Surprise from CGU"
+title: "A Pleasant Surprise from Canadian Geophysical Union"
 date: 2026-03-20
 categories:
   - Life
