@@ -5,7 +5,7 @@ var addressPoints = [
     -73.2459859
   ],
   [
-    "Effects of microforms on the evaporation of peat-bryophyte-litter column in a montane peatland in Canadian Rocky Mountain<br />Global Water Futures 2022; Canada",
+    "Effects of Microforms on the Evaporation of Peat-bryophyte-litter Column in a Montane Peatland in Canadian Rocky Mountain<br />Global Water Futures 2022; Canada",
     61.0666922,
     -107.991707
   ],
@@ -30,17 +30,17 @@ var addressPoints = [
     -107.991707
   ],
   [
-    "An effective formulation for estimating wetland surface energy fluxes from weather data<br />Canadian Geophysical Union Conference 2024; Ottawa, Canada",
+    "An Effective Formulation for Estimating Wetland Surface Energy Fluxes From Weather Data<br />Canadian Geophysical Union Conference 2024; Ottawa, Canada",
     45.4208777,
     -75.6901106
   ],
   [
-    "How do vegetation, litter, bryophyte, and substrate soil affect evaporation in high-elevation wetlands? Evidence from various types of wetlands with contrast geographical settings in Canadian Rocky Mountain<br />Global Water Futures 2022; Canada",
+    "How do Vegetation, Litter, Bryophyte, and Substrate Soil Affect Evaporation in High-elevation Wetlands? Evidence from Various Types of Wetlands with Contrast Geographical Settings in Canadian Rocky Mountain<br />Global Water Futures 2022; Canada",
     61.0666922,
     -107.991707
   ],
   [
-    "The dependence of evaporative efficiency of vegetated surfaces on ground cover weight fractions in mesic ecosystems<br />Global Water Futures 2023; Canada",
+    "The Dependence of Evaporative Efficiency of Vegetated Surfaces on Ground Cover Weight Fractions in Mesic Ecosystems<br />Global Water Futures 2023; Canada",
     61.0666922,
     -107.991707
   ],
@@ -50,7 +50,7 @@ var addressPoints = [
     -119.495902
   ],
   [
-    "How well do evapotranspiration partitioning approaches perform in moss-covered wetlands?<br />Canadian Geophysical Union Conference 2025; Saskatoon, Canada",
+    "How Well do Evapotranspiration Partitioning Approaches Perform in Moss-covered Wetlands?<br />Canadian Geophysical Union Conference 2025; Saskatoon, Canada",
     52.131802,
     -106.660767
   ],
@@ -60,7 +60,7 @@ var addressPoints = [
     -107.991707
   ],
   [
-    "The dependence of evaporative efficiency of vegetated surfaces on ground cover weight fractions in mesic ecosystems<br />Canadian Geophysical Union Conference 2023; Banff, Canada",
+    "The Dependence of Evaporative Efficiency of Vegetated Surfaces on Ground Cover Weight Fractions in Mesic Ecosystems<br />Canadian Geophysical Union Conference 2023; Banff, Canada",
     51.175076,
     -115.5720773
   ],
