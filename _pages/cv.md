@@ -16,7 +16,7 @@ Education
 
 Employment
 ======
-* Postdoctoral Researcher, Department of Geography and Environmental Management, University of Waterloo (2025 to Present)
+* Postdoctoral Researcher, Department of Geography and Environmental Management, University of Waterloo, 2025 to Present
 
 Teaching Experience
 ======
