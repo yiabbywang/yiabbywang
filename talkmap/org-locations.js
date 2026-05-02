@@ -10,7 +10,7 @@ var addressPoints = [
     -107.991707
   ],
   [
-    "Rodents Play An Important Role During Spartina Alterniflora Invading The Mangrove Ecosystem<br />Sixth National Mangrove Forests Seminar; Haikou, China",
+    "Rodents Play an Important Role during Spartina Alterniflora Invading the Mangrove Ecosystem<br />Sixth National Mangrove Forests Seminar; Haikou, China",
     20.0462328,
     110.1956502
   ],
@@ -20,7 +20,7 @@ var addressPoints = [
     -71.2084061
   ],
   [
-    "Responses of forest carbon and water coupling to thinning treatments at both the leaf and individual tree levels in a 16-year-old natural Pinus contorta stand<br />AGU Fall Meeting 2017; New Orleans, USA",
+    "Responses of Forest Carbon and Water Coupling to Thinning Treatments at Both the Leaf and Individual Tree Levels in a 16-year-old Natural Pinus Contorta Stand<br />AGU Fall Meeting 2017; New Orleans, USA",
     29.9561422,
     -90.0733934
   ],
