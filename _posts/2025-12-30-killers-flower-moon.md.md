@@ -1,5 +1,5 @@
 ---
-title: "Book Reflections | Killers of the Flower Moon by David Grann"
+title: "Book Reflections: Killers of the Flower Moon by David Grann"
 date: 2025-12-30
 categories:
   - Books
