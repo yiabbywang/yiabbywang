@@ -9,7 +9,24 @@ author_profile: true
 
 {% assign sorted_service = site.teaching | sort: "date" | reverse %}
 
-# Leadership
+<style>
+.service-card {
+  background: #f8f9fa;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 1.5rem 2rem;
+  margin: 2rem 0;
+}
+
+.service-card h2 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+}
+</style>
+
+<div class="service-card">
+<h2>Leadership</h2>
 
 {% for post in sorted_service %}
   {% if post.type == "Leadership" %}
@@ -17,22 +34,26 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
----
+</div>
 
-# Academic Service
+<div class="service-card">
+<h2>Academic Service</h2>
 
 {% for post in sorted_service %}
-  {% if post.type == "Academic Service" %}
+  {% if post.type == "Academic Service" or post.type == "Conference Service" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
----
+</div>
 
-# Community Engagement
+<div class="service-card">
+<h2>Community Engagement</h2>
 
 {% for post in sorted_service %}
   {% if post.type == "Community Service" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+</div>
