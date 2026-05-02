@@ -32,7 +32,7 @@ I earned my M.Sc. in Environmental Sciences from the University of British Colum
 # Academic Activities
 {% assign sorted_talks = site.talks | sort: "date" | reverse %}
 {% for post in sorted_talks limit:2 %}
-- **{{ post.type }}**: [{{ post.title }}]({{ post.url }}){% if post.venue %}, {{ post.venue }}{% endif %}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+- **{{ post.type }}**: [{{ post.title }}]({{ post.url }}){% if post.venue %}, {{ post.venue }}{% endif %}{% if post.location %}, {{ post.location }}{% endif %}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
 {% endfor %}
 [View all academic activities](/talks/)
 
